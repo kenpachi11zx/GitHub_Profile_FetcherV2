@@ -62,18 +62,6 @@ GitHub_Profile_FetcherV2/
 
 ---
 
-## 📂 Example User
-
-Try searching:
-
-```
-torvalds
-gaearon
-sindresorhus
-```
-
----
-
 ## 🧑‍💻 Author
 
 **Kenpachi11zx**  
